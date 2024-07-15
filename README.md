@@ -1,2 +1,2 @@
 # Python-Data-Analyst-Study
-林粒粒的Python线上课课程
+Python 可视化与数据分析。
